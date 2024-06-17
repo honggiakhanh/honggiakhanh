@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khanh</h1>
 <h3 align="center">A passionate full-stack developer from Helsinki, Finland</h3>
 
-- 🔭 I’m currently working on **BoardGameFinder**
+- 🔭 I’m currently working on **BoardGameFinder**, a web-scraper powered web application to find the lastest prices and infos on a board game across multiple well-known board game retailer in Finland.
 
 - 👨‍💻 All of my projects are available at [https://github.com/honggiakhanh](https://github.com/honggiakhanh)
 
